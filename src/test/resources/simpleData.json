@@ -1,0 +1,9 @@
+{ 
+  "firstName":"aru",
+  "lastName":"eswaran",
+  "address":{ 
+     "street":"west Street",
+     "taluk":"palani",
+     "district":"dindigul" 
+  }
+}
